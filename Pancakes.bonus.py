@@ -51,7 +51,8 @@ def pancakes(number): # Specify number of pancakes
 
     return plate
 
-plate = pancakes(14)
+# Call Pancakes Function - Feel free to vary portions here!
+plate = pancakes(8)
 
-# Rosemary serves up the pancakes. Bon appetit!
+# Rosemary serves up the pancakes. Bone ape the teeth!
 Rosemary.serve(plate)

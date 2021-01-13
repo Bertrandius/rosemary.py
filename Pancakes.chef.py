@@ -43,5 +43,5 @@ for i in range(8):
     pancake = pan.take()
     plate.add(pancake)
 
-# Rosemary serves up the pancakes. Bon appetit!
+# Rosemary serves up the pancakes. Bone ape the teeth!
 Rosemary.serve(plate)
