@@ -1,6 +1,6 @@
 # Chef Rosemary - Exercise 6: Pancakes
 
-#Premable - Importing Objects from libs
+#Preamble - Importing Objects from libs
 from kitchen import Rosemary
 from kitchen.utensils import Bowl, Pan, Plate
 from kitchen.ingredients import Flour, Egg, Salt, Milk, Butter
